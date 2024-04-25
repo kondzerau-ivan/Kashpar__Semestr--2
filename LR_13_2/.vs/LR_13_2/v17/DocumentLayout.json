@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\Osnovy_Algoritmizacii_I_Programmirovania\\1_Kurs\\2_Semestr\\LR_13_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3958E205-24D0-431E-B656-A488924DCE93}|LR_13_2.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\osnovy_algoritmizacii_i_programmirovania\\1_kurs\\2_semestr\\lr_13_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3958E205-24D0-431E-B656-A488924DCE93}|LR_13_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\Osnovy_Algoritmizacii_I_Programmirovania\\1_Kurs\\2_Semestr\\LR_13_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\Osnovy_Algoritmizacii_I_Programmirovania\\1_Kurs\\2_Semestr\\LR_13_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:54:49.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
